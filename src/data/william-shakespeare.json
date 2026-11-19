@@ -1,32 +1,502 @@
 [
   {
-    "id": "william-shakespeare-sample-001",
+    "id": "william-shakespeare-001",
     "entryType": "literary",
     "authorId": "william-shakespeare",
-    "text": "Stage 1 sample entry (01 of 200) reserved for a verified William Shakespeare literary quotation. Canonical text and source edition will be imported in Stage 2.",
-    "source": null,
+    "text": "To be, or not to be: that is the question.",
+    "source": "Hamlet, Act 3, Scene 1",
     "originalLanguage": "Early Modern English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "william-shakespeare-sample-002",
+    "id": "william-shakespeare-002",
     "entryType": "literary",
     "authorId": "william-shakespeare",
-    "text": "Stage 1 sample entry (02 of 200) for William Shakespeare. This clearly labelled development placeholder allows testing typography scale, swipe transitions, favourites, and themed image export before verified texts are added.",
-    "source": null,
+    "text": "There is nothing either good or bad, but thinking makes it so.",
+    "source": "Hamlet, Act 2, Scene 2",
     "originalLanguage": "Early Modern English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "william-shakespeare-sample-003",
+    "id": "william-shakespeare-003",
     "entryType": "literary",
     "authorId": "william-shakespeare",
-    "text": "Stage 1 sample entry (03 of 200) for William Shakespeare — structured to receive a verified passage in Early Modern English with edition provenance and full attribution.",
-    "source": null,
+    "text": "Brevity is the soul of wit.",
+    "source": "Hamlet, Act 2, Scene 2",
     "originalLanguage": "Early Modern English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-004",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "The lady doth protest too much, methinks.",
+    "source": "Hamlet, Act 3, Scene 2",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-005",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Frailty, thy name is woman!",
+    "source": "Hamlet, Act 1, Scene 2",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-006",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Something is rotten in the state of Denmark.",
+    "source": "Hamlet, Act 1, Scene 4",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-007",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy.",
+    "source": "Hamlet, Act 1, Scene 5",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-008",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "The readiness is all.",
+    "source": "Hamlet, Act 5, Scene 2",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-009",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Neither a borrower nor a lender be.",
+    "source": "Hamlet, Act 1, Scene 3",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-010",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "The course of true love never did run smooth.",
+    "source": "A Midsummer Night’s Dream, Act 1, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-011",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Lord, what fools these mortals be!",
+    "source": "A Midsummer Night’s Dream, Act 3, Scene 2",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-012",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Though she be but little, she is fierce.",
+    "source": "A Midsummer Night’s Dream, Act 3, Scene 2",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-013",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Love looks not with the eyes, but with the mind.",
+    "source": "A Midsummer Night’s Dream, Act 1, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-014",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "The lunatic, the lover, and the poet are of imagination all compact.",
+    "source": "A Midsummer Night’s Dream, Act 5, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-015",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "If we shadows have offended, think but this, and all is mended.",
+    "source": "A Midsummer Night’s Dream, Act 5, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-016",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "All the world’s a stage, and all the men and women merely players.",
+    "source": "As You Like It, Act 2, Scene 7",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-017",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Sweet are the uses of adversity.",
+    "source": "As You Like It, Act 2, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-018",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "The fool doth think he is wise, but the wise man knows himself to be a fool.",
+    "source": "As You Like It, Act 5, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-019",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Can one desire too much of a good thing?",
+    "source": "As You Like It, Act 4, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-020",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "I like this place and willingly could waste my time in it.",
+    "source": "As You Like It, Act 2, Scene 4",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-021",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "If music be the food of love, play on.",
+    "source": "Twelfth Night, Act 1, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-022",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Some are born great, some achieve greatness, and some have greatness thrust upon ’em.",
+    "source": "Twelfth Night, Act 2, Scene 5",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-023",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Be not afraid of greatness.",
+    "source": "Twelfth Night, Act 2, Scene 5",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-024",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Better a witty fool than a foolish wit.",
+    "source": "Twelfth Night, Act 1, Scene 5",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-025",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "All that glisters is not gold.",
+    "source": "The Merchant of Venice, Act 2, Scene 7",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-026",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "The quality of mercy is not strained.",
+    "source": "The Merchant of Venice, Act 4, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-027",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "If you prick us, do we not bleed?",
+    "source": "The Merchant of Venice, Act 3, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-028",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "How far that little candle throws his beams! So shines a good deed in a naughty world.",
+    "source": "The Merchant of Venice, Act 5, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-029",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "What’s in a name? That which we call a rose by any other name would smell as sweet.",
+    "source": "Romeo and Juliet, Act 2, Scene 2",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-030",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Parting is such sweet sorrow.",
+    "source": "Romeo and Juliet, Act 2, Scene 2",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-031",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "These violent delights have violent ends.",
+    "source": "Romeo and Juliet, Act 2, Scene 6",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-032",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "It is the east, and Juliet is the sun.",
+    "source": "Romeo and Juliet, Act 2, Scene 2",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-033",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "For never was a story of more woe than this of Juliet and her Romeo.",
+    "source": "Romeo and Juliet, Act 5, Scene 3",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-034",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Now is the winter of our discontent.",
+    "source": "Richard III, Act 1, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-035",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "A horse! a horse! my kingdom for a horse!",
+    "source": "Richard III, Act 5, Scene 4",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-036",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Uneasy lies the head that wears a crown.",
+    "source": "Henry IV, Part 2, Act 3, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-037",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "The better part of valour is discretion.",
+    "source": "Henry IV, Part 1, Act 5, Scene 4",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-038",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "We are such stuff as dreams are made on.",
+    "source": "The Tempest, Act 4, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-039",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "What’s past is prologue.",
+    "source": "The Tempest, Act 2, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-040",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Hell is empty and all the devils are here.",
+    "source": "The Tempest, Act 1, Scene 2",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-041",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Misery acquaints a man with strange bedfellows.",
+    "source": "The Tempest, Act 2, Scene 2",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-042",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "O brave new world, that has such people in’t!",
+    "source": "The Tempest, Act 5, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-043",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Cowards die many times before their deaths; the valiant never taste of death but once.",
+    "source": "Julius Caesar, Act 2, Scene 2",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-044",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "The fault, dear Brutus, is not in our stars, but in ourselves.",
+    "source": "Julius Caesar, Act 1, Scene 2",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-045",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Beware the ides of March.",
+    "source": "Julius Caesar, Act 1, Scene 2",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-046",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "There is a tide in the affairs of men, which, taken at the flood, leads on to fortune.",
+    "source": "Julius Caesar, Act 4, Scene 3",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-047",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "The evil that men do lives after them; the good is oft interred with their bones.",
+    "source": "Julius Caesar, Act 3, Scene 2",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-048",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Out, damned spot! out, I say!",
+    "source": "Macbeth, Act 5, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-049",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Fair is foul, and foul is fair.",
+    "source": "Macbeth, Act 1, Scene 1",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "william-shakespeare-050",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Life’s but a walking shadow, a poor player that struts and frets his hour upon the stage.",
+    "source": "Macbeth, Act 5, Scene 5",
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
   }
 ]
