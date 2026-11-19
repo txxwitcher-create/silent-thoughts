@@ -1,0 +1,32 @@
+[
+  {
+    "id": "walt-whitman-sample-001",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Stage 1 sample entry (01 of 200) reserved for a verified Walt Whitman literary quotation. Canonical text and source edition will be imported in Stage 2.",
+    "source": null,
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "sample_placeholder"
+  },
+  {
+    "id": "walt-whitman-sample-002",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Stage 1 sample entry (02 of 200) for Walt Whitman. This clearly labelled development placeholder allows testing typography scale, swipe transitions, favourites, and themed image export before verified texts are added.",
+    "source": null,
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "sample_placeholder"
+  },
+  {
+    "id": "walt-whitman-sample-003",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Stage 1 sample entry (03 of 200) for Walt Whitman — structured to receive a verified passage in English with edition provenance and full attribution.",
+    "source": null,
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "sample_placeholder"
+  }
+]

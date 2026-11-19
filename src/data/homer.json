@@ -1,0 +1,32 @@
+[
+  {
+    "id": "homer-sample-001",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Stage 1 sample entry (01 of 200) reserved for a verified Homer literary quotation. Canonical text and source edition will be imported in Stage 2.",
+    "source": null,
+    "originalLanguage": "Ancient Greek",
+    "translator": "Translator attribution pending Stage 2 import",
+    "verificationStatus": "sample_placeholder"
+  },
+  {
+    "id": "homer-sample-002",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Stage 1 sample entry (02 of 200) for Homer. This clearly labelled development placeholder allows testing typography scale, swipe transitions, favourites, and themed image export before verified texts are added.",
+    "source": null,
+    "originalLanguage": "Ancient Greek",
+    "translator": "Translator attribution pending Stage 2 import",
+    "verificationStatus": "sample_placeholder"
+  },
+  {
+    "id": "homer-sample-003",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Stage 1 sample entry (03 of 200) for Homer — structured to receive a verified passage in Ancient Greek with edition provenance and full attribution.",
+    "source": null,
+    "originalLanguage": "Ancient Greek",
+    "translator": "Translator attribution pending Stage 2 import",
+    "verificationStatus": "sample_placeholder"
+  }
+]

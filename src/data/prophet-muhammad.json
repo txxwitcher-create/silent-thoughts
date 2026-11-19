@@ -1,0 +1,58 @@
+[
+  {
+    "id": "prophet-muhammad-hadith-sample-001",
+    "entryType": "hadith",
+    "authorId": "prophet-muhammad",
+    "arabicText": null,
+    "englishTranslation": "Stage 1 sample Hadith slot (01 of 1,000). Reserved for an authenticated Hadith English translation with verified Arabic text, narrator, collection, Hadith number, chapter, and scholarly grading.",
+    "narrator": null,
+    "collection": null,
+    "hadithNumber": null,
+    "chapter": null,
+    "authenticityGrade": null,
+    "sourceReference": null,
+    "verificationStatus": "sample_placeholder"
+  },
+  {
+    "id": "prophet-muhammad-hadith-sample-002",
+    "entryType": "hadith",
+    "authorId": "prophet-muhammad",
+    "arabicText": null,
+    "englishTranslation": "Stage 1 sample Hadith slot (02 of 1,000). No Hadith text, narrator, book number, or authenticity grading is fabricated during Stage 1 foundation development.",
+    "narrator": null,
+    "collection": null,
+    "hadithNumber": null,
+    "chapter": null,
+    "authenticityGrade": null,
+    "sourceReference": null,
+    "verificationStatus": "sample_placeholder"
+  },
+  {
+    "id": "prophet-muhammad-hadith-sample-003",
+    "entryType": "hadith",
+    "authorId": "prophet-muhammad",
+    "arabicText": null,
+    "englishTranslation": "Stage 1 sample Hadith slot (03 of 1,000). This structured schema supports full Arabic script rendering, verified English translation, narrator attribution, canonical book reference, and scholarly grading in Stage 2.",
+    "narrator": null,
+    "collection": null,
+    "hadithNumber": null,
+    "chapter": null,
+    "authenticityGrade": null,
+    "sourceReference": null,
+    "verificationStatus": "sample_placeholder"
+  },
+  {
+    "id": "prophet-muhammad-hadith-sample-004",
+    "entryType": "hadith",
+    "authorId": "prophet-muhammad",
+    "arabicText": null,
+    "englishTranslation": "Stage 1 sample Hadith slot (04 of 1,000). Designed for respectful presentation in both the dedicated Hadith Archive view and the four-theme immersive reader.",
+    "narrator": null,
+    "collection": null,
+    "hadithNumber": null,
+    "chapter": null,
+    "authenticityGrade": null,
+    "sourceReference": null,
+    "verificationStatus": "sample_placeholder"
+  }
+]

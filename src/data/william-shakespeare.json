@@ -1,0 +1,32 @@
+[
+  {
+    "id": "william-shakespeare-sample-001",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Stage 1 sample entry (01 of 200) reserved for a verified William Shakespeare literary quotation. Canonical text and source edition will be imported in Stage 2.",
+    "source": null,
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "sample_placeholder"
+  },
+  {
+    "id": "william-shakespeare-sample-002",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Stage 1 sample entry (02 of 200) for William Shakespeare. This clearly labelled development placeholder allows testing typography scale, swipe transitions, favourites, and themed image export before verified texts are added.",
+    "source": null,
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "sample_placeholder"
+  },
+  {
+    "id": "william-shakespeare-sample-003",
+    "entryType": "literary",
+    "authorId": "william-shakespeare",
+    "text": "Stage 1 sample entry (03 of 200) for William Shakespeare — structured to receive a verified passage in Early Modern English with edition provenance and full attribution.",
+    "source": null,
+    "originalLanguage": "Early Modern English",
+    "translator": null,
+    "verificationStatus": "sample_placeholder"
+  }
+]
