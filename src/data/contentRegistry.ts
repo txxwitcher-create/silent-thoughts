@@ -1,23 +1,23 @@
 import type { HadithEntry, LiteraryQuote, QuoteEntry } from '../types/content';
 import { APPROVED_AUTHORS } from './authors';
 
-import allamaIqbal from './collections/allama-iqbal.json';
-import charlesDickens from './collections/charles-dickens.json';
-import emilyDickinson from './collections/emily-dickinson.json';
-import homer from './collections/homer.json';
-import janeAusten from './collections/jane-austen.json';
-import jrrTolkien from './collections/jrr-tolkien.json';
-import markTwain from './collections/mark-twain.json';
-import mayaAngelou from './collections/maya-angelou.json';
-import mirzaGhalib from './collections/mirza-ghalib.json';
-import oscarWilde from './collections/oscar-wilde.json';
-import pabloNeruda from './collections/pablo-neruda.json';
-import prophetMuhammad from './collections/prophet-muhammad.json';
-import robertFrost from './collections/robert-frost.json';
-import rumi from './collections/rumi.json';
-import virginiaWoolf from './collections/virginia-woolf.json';
-import waltWhitman from './collections/walt-whitman.json';
-import williamShakespeare from './collections/william-shakespeare.json';
+import allamaIqbal from './allama-iqbal.json';
+import charlesDickens from './charles-dickens.json';
+import emilyDickinson from './emily-dickinson.json';
+import homer from './homer.json';
+import janeAusten from './jane-austen.json';
+import jrrTolkien from './jrr-tolkien.json';
+import markTwain from './mark-twain.json';
+import mayaAngelou from './maya-angelou.json';
+import mirzaGhalib from './mirza-ghalib.json';
+import oscarWilde from './oscar-wilde.json';
+import pabloNeruda from './pablo-neruda.json';
+import prophetMuhammad from './prophet-muhammad.json';
+import robertFrost from './robert-frost.json';
+import rumi from './rumi.json';
+import virginiaWoolf from './virginia-woolf.json';
+import waltWhitman from './walt-whitman.json';
+import williamShakespeare from './william-shakespeare.json';
 
 const COLLECTIONS_BY_AUTHOR: Record<string, QuoteEntry[]> = {
   'william-shakespeare': williamShakespeare as LiteraryQuote[],
