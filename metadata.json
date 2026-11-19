@@ -1,0 +1,6 @@
+{
+  "name": "SILENT THOUGHTS",
+  "description": "Words that stay with you. A mobile-first international quote-reading Progressive Web App with curated literary profiles, four immersive reader themes, and offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
