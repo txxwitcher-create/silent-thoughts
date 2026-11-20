@@ -37,18 +37,34 @@ export const HomeView: React.FC<HomeViewProps> = ({
 
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
-  // Build the favourites lookup only when saved IDs change.
+  // Create the favourites lookup only when favourite IDs change.
   const favSet = useMemo(() => new Set(favouriteIds), [favouriteIds]);
 
-  // Reset pagination when a different feed is supplied.
+  // Reset pagination when the feed changes.
   useEffect(() => {
     setVisibleCount(PAGE_SIZE);
   }, [entries]);
 
-  // Only prepare the cards currently requested for display.
+  // Only keep the entries needed for the current page.
   const visibleEntries = useMemo(
     () => entries.slice(0, visibleCount),
     [entries, visibleCount]
+  );
+
+  // Resolve authors once instead of repeating lookups during card rendering.
+  const visibleAuthors = useMemo(
+    () =>
+      visibleEntries.map((entry) => getAuthorById(entry.authorId)),
+    [visibleEntries]
+  );
+
+  // Keep reader callbacks stable while the feed and callback remain unchanged.
+  const readerHandlers = useMemo(
+    () =>
+      visibleEntries.map((_, index) => () =>
+        onOpenReader(entries, index, 'Home Feed')
+      ),
+    [entries, visibleEntries, onOpenReader]
   );
 
   const hasMore = visibleCount < entries.length;
@@ -106,7 +122,8 @@ export const HomeView: React.FC<HomeViewProps> = ({
       {/* Incremental Quote Feed */}
       <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:gap-5">
         {visibleEntries.map((entry, index) => {
-          const author = getAuthorById(entry.authorId);
+          const author = visibleAuthors[index];
+
           if (!author) return null;
 
           return (
@@ -117,9 +134,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
               isFavourite={favSet.has(entry.id)}
               fontSize={fontSize}
               showAuthorHeader
-              onOpenReader={() =>
-                onOpenReader(entries, index, 'Home Feed')
-              }
+              onOpenReader={readerHandlers[index]}
               onOpenAuthor={onOpenAuthor}
               onCopy={onCopy}
               onShare={onShare}
