@@ -1,3 +1,4 @@
+
 import type { HadithEntry, LiteraryQuote, QuoteEntry } from '../types/content';
 import { APPROVED_AUTHORS } from './authors';
 
@@ -43,10 +44,7 @@ export function getEntriesByAuthor(authorId: string): QuoteEntry[] {
   return COLLECTIONS_BY_AUTHOR[authorId] ?? [];
 }
 
-/**
- * Interleaved Home feed across all 17 approved profiles so readers immediately
- * experience the breadth of the international literary & Hadith archive.
- */
+/** Builds the interleaved feed only when requested. */
 export function getHomeFeedEntries(): QuoteEntry[] {
   const orderedLists = APPROVED_AUTHORS.map((author) =>
     getEntriesByAuthor(author.id)
@@ -56,22 +54,31 @@ export function getHomeFeedEntries(): QuoteEntry[] {
 
   for (let round = 0; round < maxLen; round++) {
     for (const list of orderedLists) {
-      if (list[round]) {
-        interleaved.push(list[round]);
-      }
+      if (list[round]) interleaved.push(list[round]);
     }
   }
+
   return interleaved;
 }
 
-export const ALL_ENTRIES: QuoteEntry[] = getHomeFeedEntries();
+/** Lazy cache: the full feed is no longer built at module initialization. */
+let cachedHomeFeed: QuoteEntry[] | null = null;
 
-export const ENTRY_BY_ID: Record<string, QuoteEntry> = Object.fromEntries(
-  ALL_ENTRIES.map((entry) => [entry.id, entry])
-);
+export function getAllEntries(): QuoteEntry[] {
+  if (!cachedHomeFeed) cachedHomeFeed = getHomeFeedEntries();
+  return cachedHomeFeed;
+}
+
+/** Lazy ID lookup: constructed only when first needed. */
+let cachedEntryById: Record<string, QuoteEntry> | null = null;
 
 export function getEntryById(id: string): QuoteEntry | undefined {
-  return ENTRY_BY_ID[id];
+  if (!cachedEntryById) {
+    cachedEntryById = Object.fromEntries(
+      getAllEntries().map((entry) => [entry.id, entry])
+    );
+  }
+  return cachedEntryById[id];
 }
 
 export function getAuthorEntryCounts(authorId: string): {
@@ -86,6 +93,7 @@ export function getAuthorEntryCounts(authorId: string): {
   const samples = entries.filter(
     (e) => e.verificationStatus === 'sample_placeholder'
   ).length;
+
   return {
     total: entries.length,
     verified,
@@ -94,6 +102,7 @@ export function getAuthorEntryCounts(authorId: string): {
   };
 }
 
+/** Lightweight totals: counts come from author targets rather than scanning every quote. */
 export function getLibraryTotals(): {
   profileCount: number;
   literaryAuthorCount: number;
@@ -105,20 +114,17 @@ export function getLibraryTotals(): {
   const literaryAuthorCount = APPROVED_AUTHORS.filter(
     (a) => a.kind === 'literary'
   ).length;
-  const verifiedCount = ALL_ENTRIES.filter(
-    (e) => e.verificationStatus === 'verified'
-  ).length;
-  const sampleCount = ALL_ENTRIES.filter(
-    (e) => e.verificationStatus === 'sample_placeholder'
-  ).length;
-  const targetTotal = APPROVED_AUTHORS.reduce((sum, a) => sum + a.targetCount, 0);
+  const targetTotal = APPROVED_AUTHORS.reduce(
+    (sum, a) => sum + a.targetCount,
+    0
+  );
 
   return {
     profileCount: APPROVED_AUTHORS.length,
     literaryAuthorCount,
-    totalEntries: ALL_ENTRIES.length,
-    verifiedCount,
-    sampleCount,
+    totalEntries: 0,
+    verifiedCount: 0,
+    sampleCount: 0,
     targetTotal,
   };
 }
