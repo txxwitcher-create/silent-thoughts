@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+
+import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import { BookOpen, ChevronDown } from 'lucide-react';
 import type {
   AuthorProfile,
@@ -33,18 +34,30 @@ export const HomeView: React.FC<HomeViewProps> = ({
   onToggleFavourite,
 }) => {
   const totals = getLibraryTotals();
-  const favSet = new Set(favouriteIds);
 
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
-  const visibleEntries = entries.slice(0, visibleCount);
+  // Build the favourites lookup only when saved IDs change.
+  const favSet = useMemo(() => new Set(favouriteIds), [favouriteIds]);
+
+  // Reset pagination when a different feed is supplied.
+  useEffect(() => {
+    setVisibleCount(PAGE_SIZE);
+  }, [entries]);
+
+  // Only prepare the cards currently requested for display.
+  const visibleEntries = useMemo(
+    () => entries.slice(0, visibleCount),
+    [entries, visibleCount]
+  );
+
   const hasMore = visibleCount < entries.length;
 
-  const loadMore = () => {
+  const loadMore = useCallback(() => {
     setVisibleCount((current) =>
       Math.min(current + PAGE_SIZE, entries.length)
     );
-  };
+  }, [entries.length]);
 
   return (
     <section className="mx-auto w-full max-w-6xl px-4 py-6 sm:px-6 lg:py-8">
@@ -92,11 +105,9 @@ export const HomeView: React.FC<HomeViewProps> = ({
 
       {/* Incremental Quote Feed */}
       <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:gap-5">
-        {visibleEntries.map((entry) => {
+        {visibleEntries.map((entry, index) => {
           const author = getAuthorById(entry.authorId);
           if (!author) return null;
-
-          const originalIndex = entries.indexOf(entry);
 
           return (
             <QuoteCard
@@ -107,7 +118,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
               fontSize={fontSize}
               showAuthorHeader
               onOpenReader={() =>
-                onOpenReader(entries, originalIndex, 'Home Feed')
+                onOpenReader(entries, index, 'Home Feed')
               }
               onOpenAuthor={onOpenAuthor}
               onCopy={onCopy}
