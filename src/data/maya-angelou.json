@@ -1,32 +1,502 @@
 [
   {
-    "id": "maya-angelou-sample-001",
+    "id": "maya-angelou-001",
     "entryType": "literary",
     "authorId": "maya-angelou",
-    "text": "Stage 1 sample entry (01 of 200) reserved for a verified Maya Angelou literary quotation. Canonical text and source edition will be imported in Stage 2.",
-    "source": null,
+    "text": "Nothing will work unless you do.",
+    "source": "Letter to My Daughter",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "maya-angelou-sample-002",
+    "id": "maya-angelou-002",
     "entryType": "literary",
     "authorId": "maya-angelou",
-    "text": "Stage 1 sample entry (02 of 200) for Maya Angelou. This clearly labelled development placeholder allows testing typography scale, swipe transitions, favourites, and themed image export before verified texts are added.",
-    "source": null,
+    "text": "If you don't like something, change it. If you can't change it, change your attitude.",
+    "source": "Wouldn't Take Nothing for My Journey Now",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "maya-angelou-sample-003",
+    "id": "maya-angelou-003",
     "entryType": "literary",
     "authorId": "maya-angelou",
-    "text": "Stage 1 sample entry (03 of 200) for Maya Angelou — structured to receive a verified passage in English with edition provenance and full attribution.",
-    "source": null,
+    "text": "Courage is the most important of all the virtues because without courage you can't practice any other virtue consistently.",
+    "source": "Wouldn't Take Nothing for My Journey Now",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-004",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+    "source": "Letter to My Daughter",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-005",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "We may encounter many defeats but we must not be defeated.",
+    "source": "Gather Together in My Name",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-006",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "Nothing can dim the light which shines from within.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-007",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "Try to be a rainbow in someone's cloud.",
+    "source": "Letter to My Daughter",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-008",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "You are only free when you realize you belong no place—you belong every place—no place at all.",
+    "source": "All God's Children Need Traveling Shoes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-009",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "Love recognizes no barriers.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-010",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "I believe that every person is born with talent.",
+    "source": "Wouldn't Take Nothing for My Journey Now",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-011",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "My mission in life is not merely to survive, but to thrive.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-012",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "When we give cheerfully and accept gratefully, everyone is blessed.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-013",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "A wise woman wishes to be no one's enemy; a wise woman refuses to be anyone's victim.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-014",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "I know why the caged bird sings.",
+    "source": "I Know Why the Caged Bird Sings",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-015",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "The ache for home lives in all of us.",
+    "source": "All God's Children Need Traveling Shoes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-016",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "We need much less than we think we need.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-017",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "Prejudice is a burden that confuses the past, threatens the future, and renders the present inaccessible.",
+    "source": "Wouldn't Take Nothing for My Journey Now",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-018",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "Hoping for the best, prepared for the worst, and unsurprised by anything in between.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-019",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "I don't trust people who don't love themselves and tell me, 'I love you.'",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-020",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "The truth is, no one can be free until everyone is free.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-021",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "We are more alike, my friends, than we are unalike.",
+    "source": "Human Family",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-022",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "I have found that among its other benefits, giving liberates the soul of the giver.",
+    "source": "Wouldn't Take Nothing for My Journey Now",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-023",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "A bird doesn't sing because it has an answer, it sings because it has a song.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-024",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "You may not control all the events that happen to you, but you can decide not to be reduced by them.",
+    "source": "Letter to My Daughter",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-025",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "There is no greater agony than bearing an untold story inside you.",
+    "source": "I Know Why the Caged Bird Sings",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-026",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "The desire to reach for the stars is ambitious. The desire to reach hearts is wise.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-027",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "I am grateful to be a woman. I must have done something great in another life.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-028",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "If you are always trying to be normal, you will never know how amazing you can be.",
+    "source": "Letter to My Daughter",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-029",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "The honorary duty of a human being is to love.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-030",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "I have learned that making a living is not the same thing as making a life.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-031",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "I've learned that whenever I decide something with an open heart, I usually make the right decision.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-032",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "I've learned that even when I have pains, I don't have to be one.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-033",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "I've learned that every day you should reach out and touch someone.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-034",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "I've learned that I still have a lot to learn.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-035",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-036",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "The best candy shop a child can be left alone in is the library.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-037",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "Words mean more than what is set down on paper.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-038",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "I am a woman phenomenally. Phenomenal woman, that's me.",
+    "source": "Phenomenal Woman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-039",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "Phenomenal Woman, that's me.",
+    "source": "Phenomenal Woman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-040",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "Still I rise.",
+    "source": "Still I Rise",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-041",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "You may shoot me with your words, you may cut me with your eyes, you may kill me with your hatefulness, but still, like air, I'll rise.",
+    "source": "Still I Rise",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-042",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "Does my sassiness upset you?",
+    "source": "Still I Rise",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-043",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "I am the dream and the hope of the slave.",
+    "source": "Still I Rise",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-044",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "Just like moons and suns, with the certainty of tides, just like hopes springing high, still I'll rise.",
+    "source": "Still I Rise",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-045",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "I go forth alone, and stand as ten thousand.",
+    "source": "On the Pulse of Morning",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-046",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "History, despite its wrenching pain, cannot be unlived, but if faced with courage, need not be lived again.",
+    "source": "On the Pulse of Morning",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-047",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "We, this people, on a pequeño planet, traveling through space, are paradoxically yet, a thriving species.",
+    "source": "On the Pulse of Morning",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-048",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "A rock, a river, a tree hosts to species long since departed.",
+    "source": "On the Pulse of Morning",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-049",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "Lift up your eyes upon this day breaking for you.",
+    "source": "On the Pulse of Morning",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "maya-angelou-050",
+    "entryType": "literary",
+    "authorId": "maya-angelou",
+    "text": "The horizon leans forward, offering you space to place new steps of change.",
+    "source": "On the Pulse of Morning",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
   }
 ]
