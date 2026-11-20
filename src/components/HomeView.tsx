@@ -1,4 +1,5 @@
 
+
 import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import { BookOpen, ChevronDown } from 'lucide-react';
 import type {
@@ -80,10 +81,6 @@ export const HomeView: React.FC<HomeViewProps> = ({
       {/* Editorial Intro Header */}
       <div className="mb-6 flex flex-col justify-between gap-4 border-b border-slate-200/80 pb-6 dark:border-slate-800/80 sm:flex-row sm:items-end">
         <div className="max-w-2xl">
-          <p className="text-xs font-medium text-blue-700 dark:text-blue-400">
-            International Reading Edition · Stage 1 Foundation
-          </p>
-
           <h1 className="font-editorial mt-1.5 text-3xl font-semibold tracking-tight text-slate-900 text-balance dark:text-white sm:text-4xl">
             Words that stay with you.
           </h1>
