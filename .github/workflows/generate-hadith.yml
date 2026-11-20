@@ -1,0 +1,147 @@
+
+name: Generate 1000 English Hadith
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Download and generate Hadith JSON
+        run: |
+          mkdir -p scripts
+          cat > scripts/generate-hadith.cjs <<'EOF'
+          const fs = require('fs');
+
+          const BASE =
+            'https://raw.githubusercontent.com/AhmedBaset/hadith-json/v1.2.0/db/by_chapter/the_9_books';
+
+          const books = [
+            ['bukhari', 'Sahih al-Bukhari'],
+            ['muslim', 'Sahih Muslim'],
+            ['abudawud', 'Sunan Abu Dawud'],
+            ['tirmidhi', 'Jami at-Tirmidhi'],
+            ['nasai', 'Sunan an-Nasa’i'],
+            ['ibnmajah', 'Sunan Ibn Majah']
+          ];
+
+          function normalize(text) {
+            return text.toLowerCase()
+              .replace(/[^a-z0-9]+/g, ' ')
+              .trim();
+          }
+
+          async function fetchJson(url) {
+            const response = await fetch(url);
+            if (!response.ok) {
+              throw new Error(`Download failed: ${url} (${response.status})`);
+            }
+            return response.json();
+          }
+
+          async function main() {
+            const treeUrl =
+              'https://api.github.com/repos/AhmedBaset/hadith-json/git/trees/v1.2.0?recursive=1';
+
+            const treeData = await fetchJson(treeUrl);
+            const paths = treeData.tree
+              .filter(item => item.type === 'blob')
+              .map(item => item.path);
+
+            const chapterFiles = paths.filter(path =>
+              path.startsWith('db/by_chapter/the_9_books/')
+              && path.endsWith('.json')
+            );
+
+            const entries = [];
+            const seen = new Set();
+
+            for (const [bookKey, bookName] of books) {
+              const bookFiles = chapterFiles.filter(path =>
+                path.includes(`/the_9_books/${bookKey}/`)
+              );
+
+              for (const file of bookFiles) {
+                const data = await fetchJson(
+                  `https://raw.githubusercontent.com/AhmedBaset/hadith-json/v1.2.0/${file}`
+                );
+
+                const hadiths = data.hadiths || [];
+
+                for (const h of hadiths) {
+                  const text = (h.english?.text || '').trim();
+                  if (!text) continue;
+
+                  const key = normalize(text);
+                  if (!key || seen.has(key)) continue;
+                  seen.add(key);
+
+                  entries.push({
+                    id: `prophet-muhammad-hadith-${String(entries.length + 1).padStart(4, '0')}`,
+                    entryType: 'hadith',
+                    authorId: 'prophet-muhammad',
+                    englishTranslation: text,
+                    narrator: h.english?.narrator || null,
+                    collection: bookName,
+                    hadithNumber: h.id ?? h.idInBook ?? null,
+                    chapter: h.chapterId ?? null,
+                    authenticityGrade: bookKey === 'bukhari' || bookKey === 'muslim'
+                      ? 'Sahih'
+                      : null,
+                    sourceReference: `${bookName} ${h.id ?? h.idInBook ?? ''}`.trim(),
+                    verificationStatus: 'source_dataset'
+                  });
+
+                  if (entries.length === 1000) break;
+                }
+
+                if (entries.length === 1000) break;
+              }
+
+              if (entries.length === 1000) break;
+            }
+
+            if (entries.length !== 1000) {
+              throw new Error(
+                `Only ${entries.length} unique English Hadith found. File not generated.`
+              );
+            }
+
+            fs.mkdirSync('src/data', { recursive: true });
+
+            fs.writeFileSync(
+              'src/data/prophet-muhammad.json',
+              JSON.stringify(entries, null, 2) + '\n'
+            );
+
+            console.log('Successfully generated 1000 unique English Hadith.');
+          }
+
+          main().catch(error => {
+            console.error(error);
+            process.exit(1);
+          });
+          EOF
+
+          node scripts/generate-hadith.cjs
+
+      - name: Commit generated JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/prophet-muhammad.json
+          git commit -m "Generate 1000 English Hadith dataset"
+          git push
