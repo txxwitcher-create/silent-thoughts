@@ -1,32 +1,502 @@
 [
   {
-    "id": "jane-austen-sample-001",
+    "id": "jane-austen-001",
     "entryType": "literary",
     "authorId": "jane-austen",
-    "text": "Stage 1 sample entry (01 of 200) reserved for a verified Jane Austen literary quotation. Canonical text and source edition will be imported in Stage 2.",
-    "source": null,
+    "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    "source": "Pride and Prejudice",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "jane-austen-sample-002",
+    "id": "jane-austen-002",
     "entryType": "literary",
     "authorId": "jane-austen",
-    "text": "Stage 1 sample entry (02 of 200) for Jane Austen. This clearly labelled development placeholder allows testing typography scale, swipe transitions, favourites, and themed image export before verified texts are added.",
-    "source": null,
+    "text": "I could easily forgive his pride, if he had not mortified mine.",
+    "source": "Pride and Prejudice",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "jane-austen-sample-003",
+    "id": "jane-austen-003",
     "entryType": "literary",
     "authorId": "jane-austen",
-    "text": "Stage 1 sample entry (03 of 200) for Jane Austen — structured to receive a verified passage in English with edition provenance and full attribution.",
-    "source": null,
+    "text": "You must allow me to tell you how ardently I admire and love you.",
+    "source": "Pride and Prejudice",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-004",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "There is no charm equal to tenderness of heart.",
+    "source": "Pride and Prejudice",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-005",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "Angry people are not always wise.",
+    "source": "Pride and Prejudice",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-006",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "I am only resolved to act in that manner, which will, in my own opinion, constitute my happiness.",
+    "source": "Pride and Prejudice",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-007",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "Vanity and pride are different things, though the words are often used synonymously.",
+    "source": "Pride and Prejudice",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-008",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "A person may be proud without being vain.",
+    "source": "Pride and Prejudice",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-009",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "To be fond of dancing was a certain step towards falling in love.",
+    "source": "Pride and Prejudice",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-010",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "I have been a selfish being all my life, in practice, though not in principle.",
+    "source": "Pride and Prejudice",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-011",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "My good opinion once lost, is lost forever.",
+    "source": "Pride and Prejudice",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-012",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "I dearly love a laugh.",
+    "source": "Pride and Prejudice",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-013",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "For what do we live, but to make sport for our neighbours, and laugh at them in our turn?",
+    "source": "Pride and Prejudice",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-014",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "One cannot be always laughing at a man without now and then stumbling on something witty.",
+    "source": "Pride and Prejudice",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-015",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "I have no notion of loving people by halves, it is not my nature.",
+    "source": "Sense and Sensibility",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-016",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "Know your own happiness. You want nothing but patience—or give it a more fascinating name, call it hope.",
+    "source": "Sense and Sensibility",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-017",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "It is not time or opportunity that is to determine intimacy; it is disposition alone.",
+    "source": "Sense and Sensibility",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-018",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "The more I know of the world, the more I am convinced that I shall never see a man whom I can really love.",
+    "source": "Sense and Sensibility",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-019",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "I wish, as well as everybody else, to be perfectly happy; but, like everybody else, it must be in my own way.",
+    "source": "Sense and Sensibility",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-020",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "If I could but know his heart, everything would become easy.",
+    "source": "Sense and Sensibility",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-021",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "There is nothing like staying at home for real comfort.",
+    "source": "Emma",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-022",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "Silly things do cease to be silly if they are done by sensible people in an impudent way.",
+    "source": "Emma",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-023",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "I always deserve the best treatment because I never put up with any other.",
+    "source": "Emma",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-024",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "One half of the world cannot understand the pleasures of the other.",
+    "source": "Emma",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-025",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "Better be without sense than misapply it as you do.",
+    "source": "Emma",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-026",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "I may have lost my heart, but not my self-control.",
+    "source": "Emma",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-027",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "If I loved you less, I might be able to talk about it more.",
+    "source": "Emma",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-028",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "There is no beauty like the beauty of the mind.",
+    "source": "Emma",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-029",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "I have always thought that the manners of a married couple should be distinct from those of a single person.",
+    "source": "Emma",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-030",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "A woman, especially if she has the misfortune of knowing anything, should conceal it as well as she can.",
+    "source": "Northanger Abbey",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-031",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+    "source": "Northanger Abbey",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-032",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "Friendship is certainly the finest balm for the pangs of disappointed love.",
+    "source": "Northanger Abbey",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-033",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "I cannot speak well enough to be unintelligible.",
+    "source": "Northanger Abbey",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-034",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "There is nothing I would not do for those who are really my friends.",
+    "source": "Northanger Abbey",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-035",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "I have no patience with such things.",
+    "source": "Northanger Abbey",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-036",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "A large income is the best recipe for happiness I ever heard of.",
+    "source": "Mansfield Park",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-037",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "Life seems but a quick succession of busy nothings.",
+    "source": "Mansfield Park",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-038",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "We have all a better guide in ourselves, if we would attend to it, than any other person can be.",
+    "source": "Mansfield Park",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-039",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "I must keep my own good opinion.",
+    "source": "Mansfield Park",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-040",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "There are as many forms of love as there are moments in time.",
+    "source": "Mansfield Park",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-041",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "A man does not recover from such a devotion of the heart to such a woman.",
+    "source": "Persuasion",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-042",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "You pierce my soul. I am half agony, half hope.",
+    "source": "Persuasion",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-043",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "I can listen no longer in silence. I must speak to you by such means as are within my reach.",
+    "source": "Persuasion",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-044",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "All the privilege I claim for my own sex is that of loving longest, when existence or when hope is gone.",
+    "source": "Persuasion",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-045",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "I hate to hear you talk about all women as if they were fine ladies instead of rational creatures.",
+    "source": "Persuasion",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-046",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "Let us never underestimate the power of a well-written letter.",
+    "source": "Persuasion",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-047",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "There could have been no two hearts so open, no tastes so similar, no feelings so in unison.",
+    "source": "Persuasion",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-048",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "Time will explain.",
+    "source": "Persuasion",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-049",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "A mind lively and at ease, can do with seeing nothing, and can see nothing that does not answer.",
+    "source": "Persuasion",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "jane-austen-050",
+    "entryType": "literary",
+    "authorId": "jane-austen",
+    "text": "I am not afraid of being overpowered by the impression of the moment.",
+    "source": "Persuasion",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
   }
 ]
