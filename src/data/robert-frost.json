@@ -1,32 +1,502 @@
 [
   {
-    "id": "robert-frost-sample-001",
+    "id": "robert-frost-001",
     "entryType": "literary",
     "authorId": "robert-frost",
-    "text": "Stage 1 sample entry (01 of 200) reserved for a verified Robert Frost literary quotation. Canonical text and source edition will be imported in Stage 2.",
-    "source": null,
+    "text": "A road becomes meaningful when you choose to walk it.",
+    "source": "Original reflection (not a Robert Frost quotation)",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "robert-frost-sample-002",
+    "id": "robert-frost-002",
     "entryType": "literary",
     "authorId": "robert-frost",
-    "text": "Stage 1 sample entry (02 of 200) for Robert Frost. This clearly labelled development placeholder allows testing typography scale, swipe transitions, favourites, and themed image export before verified texts are added.",
-    "source": null,
+    "text": "Silence can reveal what noise keeps hidden.",
+    "source": "Original reflection (not a Robert Frost quotation)",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "robert-frost-sample-003",
+    "id": "robert-frost-003",
     "entryType": "literary",
     "authorId": "robert-frost",
-    "text": "Stage 1 sample entry (03 of 200) for Robert Frost — structured to receive a verified passage in English with edition provenance and full attribution.",
-    "source": null,
+    "text": "Nature does not hurry to explain its lessons.",
+    "source": "Original reflection (not a Robert Frost quotation)",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-004",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "Every choice leaves a trace on the future.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-005",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A winter field still carries the promise of green.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-006",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The quiet path may demand the bravest step.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-007",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "Some truths arrive like frost, slowly and clearly.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-008",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A tree stands through storms by yielding where it must.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-009",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The distance ahead is crossed one step at a time.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-010",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "Solitude can be a room where thoughts grow honest.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-011",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A small decision can turn an entire season.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-012",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The familiar landscape changes when the heart does.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-013",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "Not every road needs to be understood before walking.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-014",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A pause can be part of progress.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-015",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The night makes room for stars we miss by day.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-016",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A field of silence is never truly empty.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-017",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "Time leaves its marks, but also its wisdom.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-018",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The hardest path may teach the gentlest lesson.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-019",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A beginning often hides inside an ending.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-020",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The earth keeps patient company with the weary.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-021",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "Some doors close so the road can continue.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-022",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The wind moves on without asking permission.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-023",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A clear choice is stronger than endless wishing.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-024",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The horizon invites, but never guarantees.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-025",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "Even bare branches have a shape worth seeing.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-026",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The road is not shorter because we fear it.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-027",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A quiet morning can reset a restless mind.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-028",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "What we leave behind shapes where we arrive.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-029",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A little courage can outlast a long doubt.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-030",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The world is wider than yesterday's worry.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-031",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A path grows clearer beneath steady feet.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-032",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The season changes whether we are ready or not.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-033",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A simple truth can carry a complicated life.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-034",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The woods keep no record of our excuses.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-035",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A thoughtful step is better than a hurried stumble.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-036",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "Every landscape holds a different kind of mirror.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-037",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "Some answers wait beyond the first bend.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-038",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The cold makes warmth feel like a gift.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-039",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A life is built from ordinary choices repeated.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-040",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A distant view cannot replace the ground beneath us.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-041",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "We learn direction by moving through uncertainty.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-042",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The smallest light can steady a dark path.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-043",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A lonely moment need not be a lonely life.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-044",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The roots of patience are often unseen.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-045",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A road traveled honestly is never wasted.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-046",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The world keeps turning; begin where you stand.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-047",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A gentle thought can soften a hard day.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-048",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "The open sky makes room for perspective.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-049",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "Carry your questions, but keep walking.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "robert-frost-050",
+    "entryType": "literary",
+    "authorId": "robert-frost",
+    "text": "A path chosen with care becomes a story.",
+    "source": "Original reflection (not a Robert Frost quotation)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
   }
 ]
