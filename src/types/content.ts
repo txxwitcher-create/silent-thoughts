@@ -1,7 +1,9 @@
+
 export type VerificationStatus =
   | 'sample_placeholder'
   | 'pending_verification'
-  | 'verified';
+  | 'verified'
+  | 'source_dataset';
 
 export type ProfileKind = 'literary' | 'religious_hadith';
 
@@ -35,12 +37,12 @@ export interface HadithEntry {
   id: string;
   entryType: 'hadith';
   authorId: 'prophet-muhammad';
-  arabicText: string | null;
+  arabicText?: string | null;
   englishTranslation: string;
   narrator: string | null;
   collection: string | null;
-  hadithNumber: string | null;
-  chapter: string | null;
+  hadithNumber: string | number | null;
+  chapter: string | number | null;
   authenticityGrade: string | null;
   sourceReference: string | null;
   verificationStatus: VerificationStatus;
