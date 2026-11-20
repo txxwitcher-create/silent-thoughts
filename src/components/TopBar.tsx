@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { ArrowLeft, Heart, Menu, Share2 } from 'lucide-react';
 import type { AppView } from '../types/content';
@@ -34,7 +35,7 @@ export const TopBar: React.FC<TopBarProps> = ({
   }
 
   return (
-    <header className="sticky top-0 z-50 h-14 border-b border-slate-200/80 bg-white/90 backdrop-blur-md transition-colors dark:border-slate-800/80 dark:bg-slate-950/90">
+    <header className="sticky top-0 z-50 h-16 pt-2 border-b border-slate-200/80 bg-white/90 backdrop-blur-md transition-colors dark:border-slate-800/80 dark:bg-slate-950/90">
       <div className="mx-auto flex h-full max-w-6xl items-center justify-between gap-2 px-3 sm:px-6">
         {/* Left: Menu + optional Back */}
         <div className="flex min-w-0 items-center gap-1 sm:gap-2">
