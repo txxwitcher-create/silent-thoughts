@@ -61,13 +61,16 @@ export function getHomeFeedEntries(): QuoteEntry[] {
   return interleaved;
 }
 
-/** Lazy cache: the full feed is no longer built at module initialization. */
+/** Lazy cache: the full feed is built only when first requested. */
 let cachedHomeFeed: QuoteEntry[] | null = null;
 
 export function getAllEntries(): QuoteEntry[] {
   if (!cachedHomeFeed) cachedHomeFeed = getHomeFeedEntries();
   return cachedHomeFeed;
 }
+
+/** Backwards-compatible feed export for existing imports. */
+export const ALL_ENTRIES = getAllEntries();
 
 /** Lazy ID lookup: constructed only when first needed. */
 let cachedEntryById: Record<string, QuoteEntry> | null = null;
