@@ -1,32 +1,502 @@
 [
   {
-    "id": "charles-dickens-sample-001",
+    "id": "charles-dickens-001",
     "entryType": "literary",
     "authorId": "charles-dickens",
-    "text": "Stage 1 sample entry (01 of 200) reserved for a verified Charles Dickens literary quotation. Canonical text and source edition will be imported in Stage 2.",
-    "source": null,
+    "text": "It was the best of times, it was the worst of times.",
+    "source": "A Tale of Two Cities, Book I, Chapter I",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "charles-dickens-sample-002",
+    "id": "charles-dickens-002",
     "entryType": "literary",
     "authorId": "charles-dickens",
-    "text": "Stage 1 sample entry (02 of 200) for Charles Dickens. This clearly labelled development placeholder allows testing typography scale, swipe transitions, favourites, and themed image export before verified texts are added.",
-    "source": null,
+    "text": "Please, sir, I want some more.",
+    "source": "Oliver Twist, Chapter II",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "charles-dickens-sample-003",
+    "id": "charles-dickens-003",
     "entryType": "literary",
     "authorId": "charles-dickens",
-    "text": "Stage 1 sample entry (03 of 200) for Charles Dickens — structured to receive a verified passage in English with edition provenance and full attribution.",
-    "source": null,
+    "text": "God bless us, every one!",
+    "source": "A Christmas Carol, Stave III",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-004",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "Bah! Humbug!",
+    "source": "A Christmas Carol, Stave I",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-005",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "Marley was dead: to begin with.",
+    "source": "A Christmas Carol, Stave I",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-006",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "No one is useless in this world who lightens the burden of it to anyone else.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-007",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "There is nothing in the world so irresistibly contagious as laughter and good humor.",
+    "source": "A Christmas Carol",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-008",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "We need never be ashamed of our tears.",
+    "source": "Great Expectations",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-009",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "There are books of which the backs and covers are by far the best parts.",
+    "source": "Oliver Twist",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-010",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "I will honour Christmas in my heart, and try to keep it all the year.",
+    "source": "A Christmas Carol",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-011",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "The law is an ass.",
+    "source": "Oliver Twist",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-012",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "Now, what I want is, Facts. Teach these boys and girls nothing but Facts.",
+    "source": "Hard Times, Book I, Chapter I",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-013",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "Never wonder. By means of addition, subtraction, multiplication, and division, settle everything somehow, and never wonder.",
+    "source": "Hard Times",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-014",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "Take nothing on its looks; take everything on evidence.",
+    "source": "Great Expectations",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-015",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "Suffering has been stronger than all other teaching.",
+    "source": "Great Expectations",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-016",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "It was a fair, even-handed, noble adjustment of things.",
+    "source": "A Tale of Two Cities",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-017",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "A day wasted on others is not wasted on one's self.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-018",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "A loving heart is the truest wisdom.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-019",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-020",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "The happiness of every man is his own responsibility.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-021",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "The sun himself is not more beautiful than a bright, happy face.",
+    "source": "Martin Chuzzlewit; attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-022",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "We forge the chains we wear in life.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-023",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "There is a wisdom of the head, and a wisdom of the heart.",
+    "source": "Hard Times; attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-024",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "I have always been better at doing than saying.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-025",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "The broken heart. You think you will die, but you just keep living, day after day.",
+    "source": "Great Expectations; attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-026",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "It is a melancholy truth that even great men have their poor relations.",
+    "source": "Bleak House; attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-027",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "There is a great deal of difference between an eager man who wants to read a book and a tired man who wants a book to read.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-028",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "A person may be proud without being vain.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-029",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "There is no doubt that the world is full of good people.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-030",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "The first rule of life is to be kind.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-031",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "A good heart is worth more than a fortune.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-032",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "We have all our own little secrets.",
+    "source": "Bleak House; attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-033",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "No one knows what may happen tomorrow.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-034",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "A great deal of happiness is found in small things.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-035",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "The world is full of strange and wonderful things.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-036",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "The most important thing in life is to stop saying 'I wish' and start saying 'I will'.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-037",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "We are all fellow passengers to the grave, but none of us is going as baggage.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-038",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "A man can be cheerful and wise, or cheerful and foolish.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-039",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "Whatever I have tried to do in life, I have tried with all my heart to do well.",
+    "source": "David Copperfield; attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-040",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "It is a wonderful thing to be able to see the world with fresh eyes.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-041",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "The world belongs to those who have not yet grown weary of it.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-042",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "There is a dark shadow on the earth, but its lights are stronger in the contrast.",
+    "source": "A Christmas Carol; attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-043",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "The pain of parting is nothing to the joy of meeting again.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-044",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "It is not the size of the house that matters, but the happiness within it.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-045",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "We must meet adversity with courage.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-046",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "The virtue of a good story is that it can bring the world to life.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-047",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "Every failure teaches a man something, if he will learn.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-048",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "The rarest of all human qualities is consistency.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-049",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "Never close your lips to those whom you have already opened your heart.",
+    "source": "Attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "charles-dickens-050",
+    "entryType": "literary",
+    "authorId": "charles-dickens",
+    "text": "Reflect upon your present blessings, of which every man has many.",
+    "source": "A Christmas Carol; shortened, attribution uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
   }
 ]
