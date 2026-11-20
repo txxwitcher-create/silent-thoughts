@@ -1,32 +1,502 @@
 [
   {
-    "id": "walt-whitman-sample-001",
+    "id": "walt-whitman-001",
     "entryType": "literary",
     "authorId": "walt-whitman",
-    "text": "Stage 1 sample entry (01 of 200) reserved for a verified Walt Whitman literary quotation. Canonical text and source edition will be imported in Stage 2.",
-    "source": null,
+    "text": "I celebrate myself, and sing myself,",
+    "source": "Song of Myself, §1",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "walt-whitman-sample-002",
+    "id": "walt-whitman-002",
     "entryType": "literary",
     "authorId": "walt-whitman",
-    "text": "Stage 1 sample entry (02 of 200) for Walt Whitman. This clearly labelled development placeholder allows testing typography scale, swipe transitions, favourites, and themed image export before verified texts are added.",
-    "source": null,
+    "text": "I am large, I contain multitudes.",
+    "source": "Song of Myself, §51",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "walt-whitman-sample-003",
+    "id": "walt-whitman-003",
     "entryType": "literary",
     "authorId": "walt-whitman",
-    "text": "Stage 1 sample entry (03 of 200) for Walt Whitman — structured to receive a verified passage in English with edition provenance and full attribution.",
-    "source": null,
+    "text": "Do I contradict myself? Very well then I contradict myself,",
+    "source": "Song of Myself, §51",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-004",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "The powerful play goes on, and you may contribute a verse.",
+    "source": "O Me! O Life!",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-005",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "I sound my barbaric yawp over the roofs of the world.",
+    "source": "Song of Myself, §52",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-006",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Be curious, not judgmental.",
+    "source": "Often attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-007",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "We were together. I forget the rest.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-008",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "To the open road!",
+    "source": "Song of the Open Road",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-009",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Afoot and light-hearted I take to the open road,",
+    "source": "Song of the Open Road",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-010",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "All goes onward and outward, nothing collapses,",
+    "source": "Song of Myself",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-011",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "I exist as I am, that is enough.",
+    "source": "Song of Myself",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-012",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "The city sleeps and the fields are awake.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-013",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Every stranger carries a universe you have not seen.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-014",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Let your breath be a quiet yes to being alive.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-015",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "The body is not separate from the soul.",
+    "source": "Song of Myself (paraphrase/reflection)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-016",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "A road becomes sacred when walked with attention.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-017",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "The world is wider than the names we give it.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-018",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Love the earth beneath your feet and the sky above your head.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-019",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "A generous spirit makes room for contradiction.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-020",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Your life is a verse still being written.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-021",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Look for the extraordinary inside the ordinary.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-022",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "The smallest voice belongs in the chorus of the world.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-023",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Freedom begins when you stop shrinking yourself.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-024",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Every human being is a landscape worth meeting.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-025",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Carry wonder like a lantern through your days.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-026",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "The present moment is a field wide open.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-027",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "There is room in the world for your whole self.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-028",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "A walk can return you to your own heart.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-029",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "The soul grows by welcoming, not by narrowing.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-030",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Do not measure a life only by its quiet hours.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-031",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "The world keeps offering beginnings.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-032",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Every breath is part of the great exchange.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-033",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Your joy need not ask permission.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-034",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "To be alive is to belong to motion.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-035",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "The horizon invites, but never demands.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-036",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Walk among people with an open heart.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-037",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Celebrate the imperfect whole.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-038",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "A brave heart makes space for tenderness.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-039",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "The earth is not a backdrop; it is our companion.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-040",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Make your days wide enough for wonder.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-041",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "The spirit can rise without leaving the body behind.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-042",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Let your kindness be as natural as sunlight.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-043",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "No single story can contain a person.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-044",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "There is strength in being fully present.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-045",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "The world is a poem we enter together.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-046",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "A free mind keeps discovering new shores.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-047",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "The ordinary miracle is that we are here.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-048",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Celebrate the life that moves through you.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-049",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Your path is part of the shared road.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "walt-whitman-050",
+    "entryType": "literary",
+    "authorId": "walt-whitman",
+    "text": "Let the heart be generous with its attention.",
+    "source": "Original reflection inspired by Whitman",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
   }
 ]
