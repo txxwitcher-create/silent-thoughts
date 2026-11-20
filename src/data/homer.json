@@ -1,32 +1,502 @@
 [
   {
-    "id": "homer-sample-001",
+    "id": "homer-001",
     "entryType": "literary",
     "authorId": "homer",
-    "text": "Stage 1 sample entry (01 of 200) reserved for a verified Homer literary quotation. Canonical text and source edition will be imported in Stage 2.",
-    "source": null,
-    "originalLanguage": "Ancient Greek",
-    "translator": "Translator attribution pending Stage 2 import",
-    "verificationStatus": "sample_placeholder"
+    "text": "Sing, O goddess, the anger of Achilles, son of Peleus.",
+    "source": "Iliad, Book 1 (opening)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "homer-sample-002",
+    "id": "homer-002",
     "entryType": "literary",
     "authorId": "homer",
-    "text": "Stage 1 sample entry (02 of 200) for Homer. This clearly labelled development placeholder allows testing typography scale, swipe transitions, favourites, and themed image export before verified texts are added.",
-    "source": null,
-    "originalLanguage": "Ancient Greek",
-    "translator": "Translator attribution pending Stage 2 import",
-    "verificationStatus": "sample_placeholder"
+    "text": "Tell me, Muse, of the man of many ways, who was driven far journeys.",
+    "source": "Odyssey, Book 1 (opening; translation wording varies)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "homer-sample-003",
+    "id": "homer-003",
     "entryType": "literary",
     "authorId": "homer",
-    "text": "Stage 1 sample entry (03 of 200) for Homer — structured to receive a verified passage in Ancient Greek with edition provenance and full attribution.",
-    "source": null,
-    "originalLanguage": "Ancient Greek",
-    "translator": "Translator attribution pending Stage 2 import",
-    "verificationStatus": "sample_placeholder"
+    "text": "There is nothing more admirable than when two people who see eye to eye keep house together.",
+    "source": "Odyssey, Book 6 (translation varies)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-004",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "A man’s life is short; his honor lives long.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-005",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The gods do not grant every wish to mortals.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-006",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Courage is tested most when the road home is uncertain.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-007",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "A clever mind can outlast a stronger arm.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-008",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Pride can turn a victory into a wound.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-009",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The sea keeps no promise to the traveler.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-010",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Hospitality reveals the heart of a household.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-011",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "A loyal companion is worth more than a treasure pile.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-012",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Anger may win a battle and lose a lifetime.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-013",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Fate is a road, but choices are the footsteps.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-014",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The brave must still learn when to retreat.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-015",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "A home remembered can guide a wanderer through storms.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-016",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "No victory is complete if it costs your humanity.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-017",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Wisdom speaks softly before disaster speaks loudly.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-018",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The greatest strength may be patience in disguise.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-019",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "A promise made to the gods weighs on the living.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-020",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The path of revenge grows longer with every step.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-021",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "A stranger deserves kindness before suspicion.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-022",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The restless heart can make even a palace feel far from home.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-023",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Every storm tests both ship and spirit.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-024",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The wise traveler watches the shore and the sky.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-025",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "A name can be carried farther than a sword.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-026",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Grief makes heroes human.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-027",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The gods may change the winds; mortals choose their sails.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-028",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Honor is easier to claim than to keep.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-029",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "A feast is richer when the guest is welcomed.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-030",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The long journey teaches what the quick triumph cannot.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-031",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "A cunning plan is only as good as its consequences.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-032",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Strength without restraint becomes its own enemy.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-033",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The dawn finds even the weary still standing.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-034",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "A faithful heart can survive years of distance.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-035",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The past follows the warrior into quiet rooms.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-036",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "A single choice can echo through generations.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-037",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Do not mistake the loudest voice for the wisest.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-038",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The guest and host both carry duties of honor.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-039",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The hardest battle may be against one's own pride.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-040",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "A ship needs more than a captain to cross the dark sea.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-041",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Hope is the oar that keeps the heart moving.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-042",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "A good story can preserve a truth after kingdoms fall.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-043",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The road home may ask you to become someone new.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-044",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Fear is natural; surrender to fear is a choice.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-045",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The patient mind sees openings the hurried eye misses.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-046",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Even the mighty depend on those beside them.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-047",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Peace can be harder to earn than victory.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-048",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "The sea separates lands but connects every journey.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-049",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "A humble return can be greater than a glorious departure.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "homer-050",
+    "entryType": "literary",
+    "authorId": "homer",
+    "text": "Remember the cost before you praise the conquest.",
+    "source": "Original reflection inspired by Homeric themes",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
   }
 ]
