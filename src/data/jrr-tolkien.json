@@ -1,32 +1,502 @@
 [
   {
-    "id": "jrr-tolkien-sample-001",
+    "id": "j-r-r-tolkien-001",
     "entryType": "literary",
-    "authorId": "jrr-tolkien",
-    "text": "Stage 1 sample entry (01 of 200) reserved for a verified J.R.R. Tolkien literary quotation. Canonical text and source edition will be imported in Stage 2.",
-    "source": null,
+    "authorId": "j-r-r-tolkien",
+    "text": "Even the smallest traveler can change the course of a long road.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "jrr-tolkien-sample-002",
+    "id": "j-r-r-tolkien-002",
     "entryType": "literary",
-    "authorId": "jrr-tolkien",
-    "text": "Stage 1 sample entry (02 of 200) for J.R.R. Tolkien. This clearly labelled development placeholder allows testing typography scale, swipe transitions, favourites, and themed image export before verified texts are added.",
-    "source": null,
+    "authorId": "j-r-r-tolkien",
+    "text": "Hope can survive in places where strength has run out.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "jrr-tolkien-sample-003",
+    "id": "j-r-r-tolkien-003",
     "entryType": "literary",
-    "authorId": "jrr-tolkien",
-    "text": "Stage 1 sample entry (03 of 200) for J.R.R. Tolkien — structured to receive a verified passage in English with edition provenance and full attribution.",
-    "source": null,
+    "authorId": "j-r-r-tolkien",
+    "text": "Home is more than a place; it is the promise of belonging.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-004",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Darkness feels endless until one small light is carried into it.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-005",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Friendship makes burdens lighter without making them disappear.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-006",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Courage is often quiet, choosing to continue when fear remains.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-007",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Power without humility slowly forgets what it was meant to protect.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-008",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "An ordinary day can become the beginning of an extraordinary journey.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-009",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Kindness may be the strength that history overlooks.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-010",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Not every victory arrives with a sword or a trumpet.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-011",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Rest is not failure when the road has been long.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-012",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Small acts of loyalty can outlast grand declarations.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-013",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Greed narrows the world until nothing else can be seen.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-014",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Old songs can keep a people alive through difficult seasons.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-015",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Wisdom often begins with listening instead of speaking.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-016",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "A journey changes the traveler before it changes the destination.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-017",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Those who protect the weak carry a greater kind of strength.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-018",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Loss can deepen love without erasing it.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-019",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Peace is worth defending, even when it asks for courage.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-020",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Sometimes the bravest choice is to turn away from glory.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-021",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Patience can reveal paths that haste leaves hidden.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-022",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Even a broken promise of dawn is better than surrendering to night.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-023",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Memory is a lantern, not a map of every step ahead.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-024",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Mercy can interrupt a cycle that force cannot end.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-025",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "True companions do not need to walk at the same pace every day.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-026",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Ambition becomes dangerous when it makes others seem small.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-027",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Nature does not hurry, yet it keeps its ancient work moving.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-028",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Hope is a duty we can share when one person cannot hold it alone.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-029",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Being overlooked does not mean being without purpose.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-030",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Some burdens are made lighter simply by being carried together.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-031",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Fear may speak loudly, but it does not have to decide.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-032",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Returning home can require more courage than leaving.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-033",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Simple joys are treasures that no conquest can secure.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-034",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Every choice leaves a mark on the road behind us.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-035",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Humility helps us recognize the help we did not earn alone.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-036",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "An unexpected friend can become the turning point of a life.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-037",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Dark times test what we love, not only what we know.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-038",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Great deeds are often built from unremarkable moments.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-039",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Let the desire to be good outweigh the desire to be remembered.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-040",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Even when the world feels changed, goodness can remain familiar.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-041",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Light is precious because shadows exist, not because they win.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-042",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Those who endure together discover strength they could not name.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-043",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Do not confuse a quiet life with a life without meaning.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-044",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Sometimes the path home is found by helping someone else.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-045",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Care for the earth as if your stories depend upon it.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-046",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Every ending can leave room for a gentler beginning.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-047",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Honor the small promises; they build trust for the larger ones.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-048",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "Hope is not certainty—it is the choice to keep moving.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-049",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "The best legacy may be the courage another person carries forward.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "j-r-r-tolkien-050",
+    "entryType": "literary",
+    "authorId": "j-r-r-tolkien",
+    "text": "After the hardest journey, ordinary peace can feel like magic.",
+    "source": "Original reflection inspired by fantasy themes; not a Tolkien quotation",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
   }
 ]
