@@ -35,7 +35,7 @@ export const TopBar: React.FC<TopBarProps> = ({
   }
 
   return (
-    <header className="sticky top-0 z-50 h-14 pt-[env(safe-area-inset-top)] border-b border-slate-200/80 bg-white/90 backdrop-blur-md transition-colors dark:border-slate-800/80 dark:bg-slate-950/90">
+    <header className="relative z-50 mt-[30vh] h-14 border-b border-slate-200/80 bg-white/90 backdrop-blur-md transition-colors dark:border-slate-800/80 dark:bg-slate-950/90">
       <div className="mx-auto flex h-full max-w-6xl items-center justify-between gap-2 px-3 sm:px-6">
         <div className="flex min-w-0 items-center gap-1 sm:gap-2">
           <button
