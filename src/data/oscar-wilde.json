@@ -1,32 +1,587 @@
 [
   {
-    "id": "oscar-wilde-sample-001",
+    "id": "oscar-wilde-001",
     "entryType": "literary",
     "authorId": "oscar-wilde",
-    "text": "Stage 1 sample entry (01 of 200) reserved for a verified Oscar Wilde literary quotation. Canonical text and source edition will be imported in Stage 2.",
-    "source": null,
+    "text": "I can resist everything except temptation.",
+    "source": "Lady Windermere's Fan",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "oscar-wilde-sample-002",
+    "id": "oscar-wilde-002",
     "entryType": "literary",
     "authorId": "oscar-wilde",
-    "text": "Stage 1 sample entry (02 of 200) for Oscar Wilde. This clearly labelled development placeholder allows testing typography scale, swipe transitions, favourites, and themed image export before verified texts are added.",
-    "source": null,
+    "text": "The truth is rarely pure and never simple.",
+    "source": "The Importance of Being Earnest",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "oscar-wilde-sample-003",
+    "id": "oscar-wilde-003",
     "entryType": "literary",
     "authorId": "oscar-wilde",
-    "text": "Stage 1 sample entry (03 of 200) for Oscar Wilde — structured to receive a verified passage in English with edition provenance and full attribution.",
-    "source": null,
+    "text": "To love oneself is the beginning of a lifelong romance.",
+    "source": "An Ideal Husband",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
-  }
-]
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-004",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "We are all in the gutter, but some of us are looking at the stars.",
+    "source": "Lady Windermere's Fan",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-005",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "Experience is simply the name we give our mistakes.",
+    "source": "The Picture of Dorian Gray",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-006",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The only way to get rid of a temptation is to yield to it.",
+    "source": "The Picture of Dorian Gray",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-007",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "I have nothing to declare except my genius.",
+    "source": "Attributed to Oscar Wilde; source attribution disputed",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-008",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "A cynic is a man who knows the price of everything and the value of nothing.",
+    "source": "Lady Windermere's Fan",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-009",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The public is wonderfully tolerant. It forgives everything except genius.",
+    "source": "The Soul of Man Under Socialism",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-010",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "Life imitates art far more than art imitates life.",
+    "source": "The Decay of Lying",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-011",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "No man is rich enough to buy back his past.",
+    "source": "The Picture of Dorian Gray",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-012",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "There is no such thing as a moral or an immoral book. Books are well written, or badly written.",
+    "source": "The Picture of Dorian Gray — Preface",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-013",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "Whenever people agree with me I always feel I must be wrong.",
+    "source": "Attributed; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-014",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The books that the world calls immoral are books that show the world its own shame.",
+    "source": "The Picture of Dorian Gray — Preface",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-015",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "A little sincerity is a dangerous thing, and a great deal of it is absolutely fatal.",
+    "source": "The Importance of Being Earnest",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-016",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "I choose my friends for their good looks, my acquaintances for their good characters, and my enemies for their good intellects.",
+    "source": "The Picture of Dorian Gray",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-017",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "One should always be in love. That is the reason one should never marry.",
+    "source": "A Woman of No Importance",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-018",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The only thing worse than being talked about is not being talked about.",
+    "source": "The Picture of Dorian Gray",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-019",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "Fashion is a form of ugliness so intolerable that we have to alter it every six months.",
+    "source": "Attributed to Oscar Wilde; wording/source varies",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-020",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "There is only one thing in the world worse than being talked about, and that is not being talked about.",
+    "source": "The Picture of Dorian Gray",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-021",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "I am not young enough to know everything.",
+    "source": "The Picture of Dorian Gray",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-022",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "A man can be happy with any woman as long as he does not love her.",
+    "source": "The Picture of Dorian Gray",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-023",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "Women are meant to be loved, not to be understood.",
+    "source": "Attributed to Oscar Wilde; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-024",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The difference between literature and journalism is that journalism is unreadable and literature is not read.",
+    "source": "Attributed to Oscar Wilde; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-025",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The only way to behave to a woman is to make love to her if she is beautiful and to someone else if she is plain.",
+    "source": "The Picture of Dorian Gray",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-026",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "Every saint has a past, and every sinner has a future.",
+    "source": "A Woman of No Importance",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-027",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "Never love anyone who treats you like you’re ordinary.",
+    "source": "Attributed to Oscar Wilde; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-028",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend's success.",
+    "source": "The Soul of Man Under Socialism",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-029",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "A gentleman is one who never hurts anyone’s feelings unintentionally.",
+    "source": "Attributed to Oscar Wilde; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-030",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The mystery of love is greater than the mystery of death.",
+    "source": "The Canterville Ghost",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-031",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "There are only two tragedies in life: one is not getting what one wants, and the other is getting it.",
+    "source": "Attributed to Oscar Wilde; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-032",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "I like men who have a future and women who have a past.",
+    "source": "A Woman of No Importance",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-033",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "All women become like their mothers. That is their tragedy. No man does, and that is his.",
+    "source": "The Importance of Being Earnest",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-034",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The world is made by the people who do not fit in.",
+    "source": "Attributed to Oscar Wilde; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-035",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "A man who does not think for himself does not think at all.",
+    "source": "The Soul of Man Under Socialism",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-036",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The heart was made to be broken.",
+    "source": "De Profundis",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-037",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "I have the simplest tastes. I am always satisfied with the best.",
+    "source": "Attributed to Oscar Wilde; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-038",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The imagination imitates. The critical spirit creates.",
+    "source": "The Critic as Artist",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-039",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The condition of perfection is idleness: the aim of perfection is youth.",
+    "source": "The Critic as Artist",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-040",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "Whenever a man does a thoroughly stupid thing, it is always from the noblest motives.",
+    "source": "The Picture of Dorian Gray",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-041",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "A man who moralises is usually a hypocrite, and a woman who moralises is invariably plain.",
+    "source": "Attributed to Oscar Wilde; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-042",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The only difference between a caprice and a lifelong passion is that the caprice lasts a little longer.",
+    "source": "The Picture of Dorian Gray",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-043",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "I am always astonishing myself. It is the only thing that makes life worth living.",
+    "source": "Attributed to Oscar Wilde; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-044",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The best way to make children good is to make them happy.",
+    "source": "Attributed to Oscar Wilde; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-045",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The optimist and the pessimist are equally wrong. Only the optimist lives happily.",
+    "source": "Attributed to Oscar Wilde; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-046",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The basis of optimism is sheer terror.",
+    "source": "The Picture of Dorian Gray",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-047",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "When the gods wish to punish us they answer our prayers.",
+    "source": "An Ideal Husband",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-048",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The world has grown suspicious of anything that looks like a happily married life.",
+    "source": "The Importance of Being Earnest",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-049",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "One should never trust a woman who tells one her age. A woman who would tell one that would tell one anything.",
+    "source": "A Woman of No Importance",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-050",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The smallest act of kindness is worth more than the grandest intention.",
+    "source": "Attributed to Oscar Wilde; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-051",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "I can believe anything, provided it is quite incredible.",
+    "source": "The Picture of Dorian Gray",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-052",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The value of an idea has nothing whatsoever to do with the sincerity of the man who expresses it.",
+    "source": "The Soul of Man Under Socialism",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-053",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "It is absurd to divide people into good and bad. People are either charming or tedious.",
+    "source": "Lady Windermere's Fan",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-054",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "I never travel without my diary. One should always have something sensational to read in the train.",
+    "source": "The Importance of Being Earnest",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-055",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The one charm of marriage is that it makes a life of deception absolutely necessary for both parties.",
+    "source": "The Importance of Being Earnest",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-056",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "To define is to limit.",
+    "source": "The Picture of Dorian Gray",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-057",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The secret of life is to appreciate the pleasure of being terribly, terribly deceived.",
+    "source": "Attributed to Oscar Wilde; source uncertain",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-058",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "The true mystery of the world is the visible, not the invisible.",
+    "source": "The Picture of Dorian Gray",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "oscar-wilde-059",
+    "entryType": "literary",
+    "authorId": "oscar-wilde",
+    "text": "Nothing succeeds like excess.",
+    "sour
