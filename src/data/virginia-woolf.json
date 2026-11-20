@@ -1,32 +1,502 @@
 [
   {
-    "id": "virginia-woolf-sample-001",
+    "id": "virginia-woolf-001",
     "entryType": "literary",
     "authorId": "virginia-woolf",
-    "text": "Stage 1 sample entry (01 of 200) reserved for a verified Virginia Woolf literary quotation. Canonical text and source edition will be imported in Stage 2.",
-    "source": null,
+    "text": "Every mind contains rooms that sunlight has never reached.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "virginia-woolf-sample-002",
+    "id": "virginia-woolf-002",
     "entryType": "literary",
     "authorId": "virginia-woolf",
-    "text": "Stage 1 sample entry (02 of 200) for Virginia Woolf. This clearly labelled development placeholder allows testing typography scale, swipe transitions, favourites, and themed image export before verified texts are added.",
-    "source": null,
+    "text": "Time changes the shape of memories without asking permission.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "virginia-woolf-sample-003",
+    "id": "virginia-woolf-003",
     "entryType": "literary",
     "authorId": "virginia-woolf",
-    "text": "Stage 1 sample entry (03 of 200) for Virginia Woolf — structured to receive a verified passage in English with edition provenance and full attribution.",
-    "source": null,
+    "text": "A quiet moment can reveal the noise we carry inside.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-004",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Ordinary days hold entire worlds beneath their surface.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-005",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "We are never only the person others see.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-006",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Thought wanders where the heart cannot yet speak.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-007",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "One afternoon can become a lifetime in memory.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-008",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Even silence has its own shifting language.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-009",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Our inner lives are wider than any room we occupy.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-010",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Life rarely arrives in a straight line of meaning.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-011",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Feelings move through us like weather across a window.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-012",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "We lose moments while trying to name them.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-013",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "An ordinary object may unlock an extraordinary past.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-014",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Being alone can make the world more vivid.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-015",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Each passing hour leaves a different light upon us.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-016",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "We change quietly, long before anyone notices.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-017",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "The mind returns to places the body has left.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-018",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Joy can be brief and still reshape a day.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-019",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "No life is simple from the inside.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-020",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Our memories make their own arrangements.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-021",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Perhaps freedom begins when we stop performing ourselves.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-022",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "The smallest detail can hold the weight of a whole story.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-023",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Life is felt in fragments before it is understood as a whole.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-024",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "We are made of moments that never looked important.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-025",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Every thought opens a door to another thought.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-026",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Light on a wall can quiet a restless mind.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-027",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "The past does not vanish; it changes its voice.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-028",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "What we cannot explain still shapes our days.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-029",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "People meet, and their private worlds briefly overlap.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-030",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "An open window can feel like a new beginning.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-031",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "The heart keeps time differently from the clock.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-032",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "We carry entire conversations long after they end.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-033",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Life becomes clearer when we notice its small textures.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-034",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Being understood is a kind of shelter.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-035",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Nothing stays still, not even the things we love.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-036",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "A thought may be the beginning of a different life.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-037",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "We find ourselves in the pauses between obligations.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-038",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Every person is a story unfolding beyond our view.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-039",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Beauty often arrives without announcing itself.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-040",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "We cannot hold a moment, only its changing echo.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-041",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "The day is full of hidden beginnings.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-042",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Our private hopes survive in unexpected corners.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-043",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Some truths appear only when the world grows quiet.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-044",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Life asks us to notice before it asks us to understand.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-045",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "An old memory can cast a new shadow.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-046",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "We are both the observer and the passing scene.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-047",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Even uncertainty can make room for wonder.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-048",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "The self is not fixed; it is continually becoming.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-049",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Every window frames a different version of the world.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "virginia-woolf-050",
+    "entryType": "literary",
+    "authorId": "virginia-woolf",
+    "text": "Perhaps living is learning to see again.",
+    "source": "Original reflection inspired by themes in Virginia Woolf’s writing; not a quotation.",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
   }
 ]
