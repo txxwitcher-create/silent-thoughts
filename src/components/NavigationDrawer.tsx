@@ -1,3 +1,4 @@
+
 import React, { useEffect } from 'react';
 import { Heart, Home, Settings, X } from 'lucide-react';
 import type { AppView } from '../types/content';
@@ -74,7 +75,7 @@ export const NavigationDrawer: React.FC<NavigationDrawerProps> = ({
       <aside
         aria-label="Main navigation drawer"
         aria-hidden={!isOpen}
-        className={`fixed inset-y-0 left-0 z-50 flex w-[312px] max-w-[86vw] flex-col border-r border-slate-200 bg-white shadow-2xl transition-transform duration-200 ease-out dark:border-slate-800 dark:bg-slate-950 lg:sticky lg:top-0 lg:z-20 lg:h-dvh lg:shadow-none ${
+        className={`fixed inset-y-0 left-0 z-[60] flex w-[312px] max-w-[86vw] flex-col border-r border-slate-200 bg-white shadow-2xl transition-transform duration-200 ease-out dark:border-slate-800 dark:bg-slate-950 lg:sticky lg:top-0 lg:z-20 lg:h-dvh lg:shadow-none ${
           isOpen
             ? 'translate-x-0 lg:w-80'
             : '-translate-x-full lg:hidden lg:w-0'
@@ -113,7 +114,7 @@ export const NavigationDrawer: React.FC<NavigationDrawerProps> = ({
           </div>
         </div>
 
-        {/* SCROLLABLE BODY: QUICK ACCESS + SACRED TRADITIONS + AUTHORS A-Z */}
+        {/* SCROLLABLE BODY */}
         <nav className="subtle-scroll flex-1 overflow-y-auto px-3 py-4">
           {/* QUICK ACCESS */}
           <div className="px-2 pb-1.5 text-xs font-semibold text-slate-500 dark:text-slate-400">
@@ -145,7 +146,7 @@ export const NavigationDrawer: React.FC<NavigationDrawerProps> = ({
               }`}
             >
               <span className="flex items-center gap-3">
-                <Heart className="h-[18px] w-[18px] shrink-0" />
+                <Heart className="h-[18px] w-[18px]" />
                 <span>My Favourites</span>
               </span>
               <span className="rounded-full bg-slate-100 px-2 py-0.5 text-xs font-semibold text-slate-700 tabular-nums dark:bg-slate-800 dark:text-slate-300">
@@ -163,7 +164,7 @@ export const NavigationDrawer: React.FC<NavigationDrawerProps> = ({
               }`}
             >
               <span className="flex items-center gap-3">
-                <Settings className="h-[18px] w-[18px] shrink-0" />
+                <Settings className="h-[18px] w-[18px]" />
                 <span>Settings</span>
               </span>
             </button>
@@ -173,7 +174,7 @@ export const NavigationDrawer: React.FC<NavigationDrawerProps> = ({
             </div>
           </div>
 
-          {/* SPECIAL RELIGIOUS PROFILE (Hadith) */}
+          {/* SPECIAL RELIGIOUS PROFILE */}
           <div className="mt-5 border-t border-slate-200/80 pt-4 dark:border-slate-800/80">
             <div className="px-2 pb-2 text-xs font-semibold text-emerald-800 dark:text-emerald-400">
               Sacred Hadith Archive
