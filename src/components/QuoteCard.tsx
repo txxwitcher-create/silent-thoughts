@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+
+import React, { memo, useCallback, useEffect, useRef, useState } from 'react';
 import { Check, Copy, Heart, Maximize2, Share2 } from 'lucide-react';
 import type {
   AuthorProfile,
@@ -22,7 +23,7 @@ interface QuoteCardProps {
   onToggleFavourite: (entryId: string) => void;
 }
 
-export const QuoteCard: React.FC<QuoteCardProps> = ({
+const QuoteCardComponent: React.FC<QuoteCardProps> = ({
   entry,
   author,
   isFavourite,
@@ -35,20 +36,43 @@ export const QuoteCard: React.FC<QuoteCardProps> = ({
   onToggleFavourite,
 }) => {
   const [copied, setCopied] = useState(false);
+  const copyTimerRef = useRef<number | null>(null);
+
   const displayText = getEntryDisplayText(entry);
   const quoteSizeClass = getCardQuoteSizeClass(fontSize);
 
-  const handleCopy = async () => {
+  // Prevent stale timers and clean up when a card unmounts.
+  useEffect(() => {
+    return () => {
+      if (copyTimerRef.current !== null) {
+        window.clearTimeout(copyTimerRef.current);
+      }
+    };
+  }, []);
+
+  const handleCopy = useCallback(async () => {
+    if (copyTimerRef.current !== null) {
+      window.clearTimeout(copyTimerRef.current);
+    }
+
     await onCopy(entry, author);
     setCopied(true);
-    window.setTimeout(() => setCopied(false), 1800);
-  };
+
+    copyTimerRef.current = window.setTimeout(() => {
+      setCopied(false);
+      copyTimerRef.current = null;
+    }, 1800);
+  }, [entry, author, onCopy]);
 
   const metadataLabel =
     entry.entryType === 'hadith'
       ? entry.verificationStatus === 'sample_placeholder'
         ? 'Stage 1 Sample · Hadith Archive Slot'
-        : [entry.collection, entry.hadithNumber && `#${entry.hadithNumber}`, entry.authenticityGrade]
+        : [
+            entry.collection,
+            entry.hadithNumber && `#${entry.hadithNumber}`,
+            entry.authenticityGrade,
+          ]
             .filter(Boolean)
             .join(' · ')
       : entry.verificationStatus === 'sample_placeholder'
@@ -61,9 +85,10 @@ export const QuoteCard: React.FC<QuoteCardProps> = ({
       className="group flex flex-col justify-between rounded-2xl border border-slate-200/90 bg-white p-5 transition-colors hover:border-slate-300 dark:border-slate-800/90 dark:bg-slate-900/80 dark:hover:border-slate-700 sm:p-6"
     >
       <div>
-        {/* Clean unboxed editorial metadata kicker */}
+        {/* Editorial metadata */}
         <div className="mb-3 flex items-center justify-between gap-2 text-xs text-slate-500 dark:text-slate-400">
           <span className="truncate">{metadataLabel}</span>
+
           <button
             type="button"
             onClick={onOpenReader}
@@ -74,7 +99,7 @@ export const QuoteCard: React.FC<QuoteCardProps> = ({
           </button>
         </div>
 
-        {/* Clickable Quote / Hadith Body -> opens Full-Screen Quote Reader */}
+        {/* Quote body */}
         <button
           type="button"
           onClick={onOpenReader}
@@ -89,13 +114,14 @@ export const QuoteCard: React.FC<QuoteCardProps> = ({
               {entry.arabicText}
             </p>
           )}
+
           <blockquote
             className={`font-editorial font-medium italic text-slate-900 dark:text-slate-100 ${quoteSizeClass}`}
           >
             {displayText}
           </blockquote>
 
-          {/* Structured Hadith scholarly metadata block when present */}
+          {/* Hadith metadata */}
           {entry.entryType === 'hadith' && (
             <div className="mt-3.5 border-t border-slate-100 pt-3 text-xs text-slate-500 dark:border-slate-800/90 dark:text-slate-400">
               <div className="flex flex-wrap gap-x-3 gap-y-1">
@@ -105,14 +131,18 @@ export const QuoteCard: React.FC<QuoteCardProps> = ({
                     {entry.narrator ?? 'Pending verification'}
                   </strong>
                 </span>
+
                 <span aria-hidden="true">·</span>
+
                 <span>
                   Collection:{' '}
                   <strong className="font-medium text-slate-700 dark:text-slate-300">
                     {entry.collection ?? 'Pending verification'}
                   </strong>
                 </span>
+
                 <span aria-hidden="true">·</span>
+
                 <span>
                   Grade:{' '}
                   <strong className="font-medium text-slate-700 dark:text-slate-300">
@@ -125,7 +155,7 @@ export const QuoteCard: React.FC<QuoteCardProps> = ({
         </button>
       </div>
 
-      {/* Footer: Author Attribution + Actions */}
+      {/* Author attribution and actions */}
       <div className="mt-5 border-t border-slate-100 pt-4 dark:border-slate-800/80">
         {showAuthorHeader && (
           <div className="mb-3.5">
@@ -137,10 +167,12 @@ export const QuoteCard: React.FC<QuoteCardProps> = ({
                 className="flex min-h-[44px] w-full items-center gap-3 rounded-xl py-1 text-left transition-colors hover:bg-slate-50 focus-visible:outline-2 focus-visible:outline-blue-600 dark:hover:bg-slate-800/60"
               >
                 <AuthorAvatar author={author} size="sm" />
+
                 <div className="min-w-0 flex-1">
                   <p className="truncate text-sm font-semibold text-slate-900 dark:text-white">
                     {author.displayName}
                   </p>
+
                   <p className="truncate text-xs text-slate-500 dark:text-slate-400">
                     {author.profession}
                   </p>
@@ -149,10 +181,12 @@ export const QuoteCard: React.FC<QuoteCardProps> = ({
             ) : (
               <div className="flex items-center gap-3 py-1">
                 <AuthorAvatar author={author} size="sm" />
+
                 <div className="min-w-0 flex-1">
                   <p className="truncate text-sm font-semibold text-slate-900 dark:text-white">
                     {author.displayName}
                   </p>
+
                   <p className="truncate text-xs text-slate-500 dark:text-slate-400">
                     {author.profession}
                   </p>
@@ -162,6 +196,7 @@ export const QuoteCard: React.FC<QuoteCardProps> = ({
           </div>
         )}
 
+        {/* Card actions */}
         <div className="flex items-center justify-between gap-2">
           <div className="flex items-center gap-1">
             <button
@@ -219,3 +254,6 @@ export const QuoteCard: React.FC<QuoteCardProps> = ({
     </article>
   );
 };
+
+// Skip rerendering when the card's props remain unchanged.
+export const QuoteCard = memo(QuoteCardComponent);
