@@ -1,32 +1,502 @@
 [
   {
-    "id": "emily-dickinson-sample-001",
+    "id": "emily-dickinson-001",
     "entryType": "literary",
     "authorId": "emily-dickinson",
-    "text": "Stage 1 sample entry (01 of 200) reserved for a verified Emily Dickinson literary quotation. Canonical text and source edition will be imported in Stage 2.",
-    "source": null,
+    "text": "Hope is the thing with feathers—That perches in the soul—",
+    "source": "Poem 254",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "emily-dickinson-sample-002",
+    "id": "emily-dickinson-002",
     "entryType": "literary",
     "authorId": "emily-dickinson",
-    "text": "Stage 1 sample entry (02 of 200) for Emily Dickinson. This clearly labelled development placeholder allows testing typography scale, swipe transitions, favourites, and themed image export before verified texts are added.",
-    "source": null,
+    "text": "Because I could not stop for Death—He kindly stopped for me—",
+    "source": "Poem 479",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
   },
   {
-    "id": "emily-dickinson-sample-003",
+    "id": "emily-dickinson-003",
     "entryType": "literary",
     "authorId": "emily-dickinson",
-    "text": "Stage 1 sample entry (03 of 200) for Emily Dickinson — structured to receive a verified passage in English with edition provenance and full attribution.",
-    "source": null,
+    "text": "I’m Nobody! Who are you?",
+    "source": "Poem 260",
     "originalLanguage": "English",
     "translator": null,
-    "verificationStatus": "sample_placeholder"
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-004",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The Soul selects her own Society—Then—shuts the Door—",
+    "source": "Poem 303",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-005",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "Forever—is composed of Nows—",
+    "source": "Poem 624",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-006",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "If I can stop one Heart from breaking, I shall not live in vain;",
+    "source": "Poem 919",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-007",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "A word is dead, when it is said, Some say. I say it just begins to live that day.",
+    "source": "Poem 1212",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-008",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "Tell all the truth but tell it slant—",
+    "source": "Poem 1263",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-009",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The brain is wider than the sky,",
+    "source": "Poem 632",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-010",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "There is no Frigate like a Book",
+    "source": "Poem 1286",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-011",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "Success is counted sweetest by those who ne’er succeed.",
+    "source": "Poem 67",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-012",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "Much Madness is divinest Sense—To a discerning Eye—",
+    "source": "Poem 620",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-013",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "I dwell in Possibility—A fairer House than Prose—",
+    "source": "Poem 657",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-014",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "A Bird came down the Walk—",
+    "source": "Poem 328",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-015",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The Bustle in a House",
+    "source": "Poem 1078",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-016",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The Heart asks Pleasure—first—",
+    "source": "Poem 366",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-017",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The Truth must dazzle تدريجي, or every man be blind—",
+    "source": "Poem 1129 (wording varies)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-018",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "I taste a liquor never brewed—",
+    "source": "Poem 214",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-019",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The Sky is low—the Clouds are mean—",
+    "source": "Poem 151",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-020",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "A narrow Fellow in the Grass",
+    "source": "Poem 986",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-021",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The Poets light but Lamps—",
+    "source": "Poem 883",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-022",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The Soul has Bandaged moments—",
+    "source": "Poem 360",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-023",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "We never know how high we are",
+    "source": "Poem 1176",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-024",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The Sun—just coaxed—a Day",
+    "source": "Poem 232",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-025",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The World is not Conclusion.",
+    "source": "Poem 373",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-026",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The Props assist the House",
+    "source": "Poem 729",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-027",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The lovely flowers embarrass me,",
+    "source": "Poem 134",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-028",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "I felt a Funeral, in my Brain,",
+    "source": "Poem 340",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-029",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "There’s a certain Slant of light,",
+    "source": "Poem 258",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-030",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The only News I know",
+    "source": "Poem 827",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-031",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "A solemn thing—it was—I said—",
+    "source": "Poem 303 (attribution uncertain)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-032",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "This is my letter to the World",
+    "source": "Poem 519",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-033",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The Mushroom is the Elf of Plants—",
+    "source": "Poem 135",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-034",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "A Death blow is a Life blow to some",
+    "source": "Poem 816",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-035",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The name—of it—is ‘Autumn’—",
+    "source": "Poem 465",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-036",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The Moon was but a Chin of Gold—",
+    "source": "Poem 258 (attribution uncertain)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-037",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "A light exists in Spring",
+    "source": "Poem 812",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-038",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "To make a prairie it takes a clover and one bee,",
+    "source": "Poem 1755",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-039",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The Poets stir the Universe",
+    "source": "Poem 883 (attribution uncertain)",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-040",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "I heard a Fly buzz—when I died—",
+    "source": "Poem 465",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-041",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "My Life had stood—a Loaded Gun—",
+    "source": "Poem 754",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-042",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The Soul’s superior instants",
+    "source": "Poem 679",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-043",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The smallest unit of joy can outlast the loudest sorrow.",
+    "source": "Original reflection inspired by Dickinson",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-044",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "Silence can hold a whole conversation with the heart.",
+    "source": "Original reflection inspired by Dickinson",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-045",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "A closed door is sometimes a form of peace.",
+    "source": "Original reflection inspired by Dickinson",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-046",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The ordinary day contains a hidden universe.",
+    "source": "Original reflection inspired by Dickinson",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-047",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "Hope survives by being quietly stubborn.",
+    "source": "Original reflection inspired by Dickinson",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-048",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "Loneliness can make the smallest kindness luminous.",
+    "source": "Original reflection inspired by Dickinson",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-049",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "The heart knows rooms that the mind never enters.",
+    "source": "Original reflection inspired by Dickinson",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
+  },
+  {
+    "id": "emily-dickinson-050",
+    "entryType": "literary",
+    "authorId": "emily-dickinson",
+    "text": "A secret thought may change the shape of a life.",
+    "source": "Original reflection inspired by Dickinson",
+    "originalLanguage": "English",
+    "translator": null,
+    "verificationStatus": "pending_verification"
   }
 ]
